@@ -1,0 +1,3 @@
+Html Validate
+npm install -g html-validate
+html-validate *.html
